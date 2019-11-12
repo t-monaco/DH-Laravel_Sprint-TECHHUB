@@ -9,8 +9,6 @@ use App\Product;
 use Illuminate\Http\Request;
 use Illuminate\Support\Arr;
 use function GuzzleHttp\json_decode;
-// use Symfony\Component\HttpFoundation\Session\Session;
-// use App\Session;
 
 class CartController extends Controller
 {
